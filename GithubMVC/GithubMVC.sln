@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{70695438-3A18-4A75-B42B-F83E15BFB12D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D0E0F4B-EB5D-48BF-B7BF-B6637F7F2EAA}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "PruebaGithubMVC", "src\PruebaGithubMVC\PruebaGithubMVC.xproj", "{F0FE54E0-EFB7-4B66-8829-1939E18A1878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0FE54E0-EFB7-4B66-8829-1939E18A1878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FE54E0-EFB7-4B66-8829-1939E18A1878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FE54E0-EFB7-4B66-8829-1939E18A1878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FE54E0-EFB7-4B66-8829-1939E18A1878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F0FE54E0-EFB7-4B66-8829-1939E18A1878} = {70695438-3A18-4A75-B42B-F83E15BFB12D}
+	EndGlobalSection
+EndGlobal
